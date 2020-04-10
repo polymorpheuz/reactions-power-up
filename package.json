@@ -1,0 +1,15 @@
+{
+  "name": "reactions-power-up",
+  "version": "1.0.0",
+  "description": "A Power-Up that helps you to express yourself",
+  "main": "index.js",
+  "repository": "https://github.com/polymorpheuz/reactions-power-up.git",
+  "author": "Dmitry Mozolevsky <polymorpheuz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "pa rcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
